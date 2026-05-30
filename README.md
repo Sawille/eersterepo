@@ -2,6 +2,8 @@
 
 A minimal, fully-featured Tic-Tac-Toe game built with React and styled with Tailwind CSS. This project demonstrates React state management, component composition, and includes comprehensive unit tests.
 
+**CI Test: This line was added to trigger the GitHub Actions pipeline**
+
 ## Features
 
 - 3x3 Game Board - Classic Tic-Tac-Toe grid
